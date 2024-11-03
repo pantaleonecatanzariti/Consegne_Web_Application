@@ -1,0 +1,37 @@
+.nav-link {
+    color: white ;
+    font-weight: bold;
+}
+
+.nav-link:hover {
+    text-decoration: underline;
+}
+
+h1 {
+    color:black;
+}
+h2 {
+    color:black
+;
+}
+.carousel-container {
+    max-width: 800px;
+    margin: auto;
+}
+
+.carousel-inner img {
+    height: 500px;
+    object-fit: cover;
+}
+.testo-carosello {
+    text-align: end;
+    color:black;
+    border: 2px solid white;
+}
+.card-img{
+    width:250px;
+    height: auto;
+    object-fit: cover;
+}
+
+
